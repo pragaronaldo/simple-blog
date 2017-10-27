@@ -16,6 +16,33 @@ a:hover {
 	text-decoration: none;
 	color: white;
 }
+<style type="text/css">
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+<style type="text/css">
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+<style type="text/css">
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+}
 a:visited {
 	text-decoration: none;
 	color: white;
